@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "gestao-familiar", "gestao-familiar\gestao-familiar.vbproj", "{48763D20-7510-46F8-B62F-68E9CEACAE51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48763D20-7510-46F8-B62F-68E9CEACAE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48763D20-7510-46F8-B62F-68E9CEACAE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48763D20-7510-46F8-B62F-68E9CEACAE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48763D20-7510-46F8-B62F-68E9CEACAE51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E1A70B8-F2BD-45D4-A7B0-10156C8E7B01}
+	EndGlobalSection
+EndGlobal
