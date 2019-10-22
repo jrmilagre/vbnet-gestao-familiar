@@ -8,7 +8,7 @@ Imports System.Runtime.InteropServices
 
 ' Revise os valores dos atributos do assembly
 
-<Assembly: AssemblyTitle("gestao-familiar")>
+<Assembly: AssemblyTitle("Gestão Familiar")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("gestao-familiar")>
